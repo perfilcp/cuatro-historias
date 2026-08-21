@@ -35,7 +35,7 @@ def home():
             }}
             
             .logo {{
-                width: 500px;
+                width: 400px;
                 height: auto;
                 margin-bottom: 20px;
                 box-shadow: 0 4px 15px rgba(0,0,0,0.5);

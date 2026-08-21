@@ -17,7 +17,7 @@ def home():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Banda / Músico - Sitio Oficial</title>
+        <title>Cuatro Historias - Banda</title>
         <style>
             * {{ box-sizing: border-box; margin: 0; padding: 0; font-family: 'Helvetica Neue', Arial, sans-serif; }}
             body {{ background-color: #121212; color: #f4f4f4; line-height: 1.6; overflow-x: hidden; }}
@@ -35,7 +35,7 @@ def home():
             }}
             
             .logo {{
-                width: 180px;
+                width: 500px;
                 height: auto;
                 margin-bottom: 20px;
                 box-shadow: 0 4px 15px rgba(0,0,0,0.5);
@@ -73,20 +73,20 @@ def home():
 
         <header>
             <img src="{logo_url}" alt="Logo" class="logo">
-            <h1>Nombre de la Banda</h1>
-            <p>Sitio Oficial</p>
+            <h1></h1>
+            <p>BANDA DE ROCK - URUGUAY</p>
         </header>
 
         <div class="container">
             <section>
                 <h2>Biografía</h2>
-                <p>Bienvenido al sitio oficial. Toda la información sobre lanzamientos, fechas de conciertos y material exclusivo directamente desde nuestras imágenes locales.</p>
+                <p>La historia de Cu4tro Historias tiene un poder emocional enorme. No es solo una banda que volvió después de 30 años, es un testimonio de cómo la música trasciende el tiempo y cómo los sueños pueden retomarse cuando uno está listo. Es una historia de pasión, reencuentro y resiliencia, y eso conecta con la gente a un nivel profundo.</p>
             </section>
 
             <section>
                 <h2>Video Destacado</h2>
                 <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/mSnY4KXLRWQ?si=qqPEv9wx6g9wOo2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </section>
 

@@ -126,7 +126,7 @@ def home():
         </div>
 
         <footer>
-            &copy; 2026 Nombre de la Banda. Todos los derechos reservados.
+            &copy; 2026 CUATRO HISTORIAS. Todos los derechos reservados.
         </footer>
 
         <script>

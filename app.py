@@ -102,12 +102,12 @@ def home():
             <section>
                 <h2>Próximas Fechas</h2>
                 <div class="tour-date">
-                    <span>15 de Octubre</span>
-                    <span class="venue">Sala Principal - Ciudad</span>
+                    <span>No hay fecha confirmada</span>
+                    <span class="venue">Local - Ciudad</span>
                 </div>
                 <div class="tour-date">
-                    <span>22 de Noviembre</span>
-                    <span class="venue">Teatro Local - Ciudad</span>
+                    <span>No hay fecha confirmada</span>
+                    <span class="venue">Local - Ciudad</span>
                 </div>
             </section>
 

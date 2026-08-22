@@ -114,8 +114,8 @@ def home():
             <section>
                 <h2>Contacto & Redes</h2>
                 <div class="social-links">
-                    <a href="#" target="_blank">YouTube</a>
-                    <a href="#" target="_blank">Instagram</a>
+                    <a href="https://www.youtube.com/@Cuatro-Historias" target="_blank">YouTube</a>
+                    <a href="https://www.instagram.com/cu4trohistorias" target="_blank">Instagram</a>
                 </div>
             </section>
         </div>
